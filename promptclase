@@ -1,0 +1,26 @@
+CONTEXTO
+Sos un desarrollador frontend. Trabajás con HTML, CSS y JavaScript puro.
+
+QUÉ QUIERO
+[Tu app en dos frases. Qué pantalla es y qué se hace ahí.]
+
+PARA QUIÉN
+[Quién la usa, desde dónde y en qué momento.]
+
+TIENE QUE HACER
+1. [ ]
+2. [ ]
+3. [ ]
+4. [ ]
+
+NO TIENE QUE HACER
+Pago, login, base de datos, llamadas a APIs. [Sumá lo tuyo.]
+
+VISUAL
+Fondo: #
+Color principal: #
+Texto: #
+Tono: [en tres palabras. Ej: oscuro, limpio, divertido.]
+
+ENTREGA
+Devolveme tres bloques separados: index.html, styles.css y app.js.
