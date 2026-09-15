@@ -1,0 +1,15 @@
+{
+  "name": "plantilla-taller",
+  "version": "1.0.0",
+  "description": "Plantilla para publicar una app de una pantalla en Railway",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
