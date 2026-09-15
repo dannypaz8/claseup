@@ -1,0 +1,31 @@
+CONTEXTO
+Sos un desarrollador frontend. Trabajás con HTML, CSS y JavaScript puro.
+
+QUÉ QUIERO
+Una pantalla para elegir butacas y reservar entradas de una función de cine.
+Una sola película, una sola función. No hay pago.
+
+PARA QUIÉN
+Alguien que reserva desde el celular, apurado, 5 minutos antes de salir.
+
+TIENE QUE HACER
+1. Mostrar la sala: 8 filas (A a H) por 10 butacas, con la pantalla arriba
+2. Marcar algunas butacas como ya ocupadas (no se pueden elegir)
+3. Seleccionar y deseleccionar butacas haciendo click
+4. Mostrar el total en vivo: $4.500 por butaca
+5. Botón "Reservar" que muestra un código de reserva y guarda todo en localStorage
+6. Máximo 6 butacas por reserva
+
+NO TIENE QUE HACER
+Pago, login, base de datos, elegir película u horario, llamadas a APIs.
+
+VISUAL
+Fondo: #0B0B0F
+Butaca libre: #2A2A35
+Butaca elegida: #E11D48
+Butaca ocupada: #4B5563 con opacidad baja
+Texto: #F5F5F7
+Tono: oscuro tipo sala de cine, la pantalla arriba con un degradado suave.
+
+ENTREGA
+Devolveme tres bloques separados: index.html, styles.css y app.js.
